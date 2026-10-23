@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=31&pause=900&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+There!;I'm+Rajat+Mangla." />
 </h1>
 
-<h3 align="center">A Software Developer from Delhi</h3>
+<h3 align="center">A Software Developer @ Mylo</h3>
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 <hr/>
 
 <p align="center">
-  💬 Ask me about <strong>Node.js, React, Express, Sockets, Firebase, MongoDB</strong><br>
+  💬 Ask me about <strong>Node.js, NestJs, NextJs, React, SQL, MongoDB</strong><br>
   or anything <a href="https://github.com/manglajirajat/manglajirajat/issues">here</a>!
 </p>
 
@@ -33,14 +33,6 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a> -->
 </div>
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-<img  src="https://raw.githubusercontent.com/vatsalvyas1/vatsalvyas1/output/github-contribution-grid-snake.svg" alt="contribution graph" />
-</div>
-<br>
 
 
 <br/>
